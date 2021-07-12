@@ -2,22 +2,18 @@
   <img src="./header.png" alt="Header"/>
 </a>
 
-# Hey, there! <img src="./wave.gif" width="30px">
+# Hola Chicos! <img src="./wave.gif" width="30px">
 
 <p align="center">
-  I'm Boidushya and I love to code weird stuff.
+ Soy Xdayron y hago bots de discord por gusto XD.
   <br /> 
-  <a href="https://www.youtube.com/watch?v=qE0UimODxNg">The conquest of nature is to be achieved through number and measure</a>
+  <a href="https://www.youtube.com/watch?v=GKaLZh9BXDA">La conquista de Free Fire fue muy desagradable</a>
   <br />
 </p>
 
 
-## &#x1f4c8; Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=boidushya&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologías y herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=61D9FA&labelColor=20232A"/>
   <img src="https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=61D9FA&labelColor=20232A"/>
@@ -60,37 +56,23 @@
 </p>
 
 
-## &#x269B; Language Stats
+## &#x269B; Estadísticas de Lenguaje de programacion
 <p align="center">
-  <a align="center" href="https://github.com/boidushya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boidushya&theme=react&hide_border=true" />
+  <a align="center" href="https://github.com/XdayronDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xdayron&theme=react&hide_border=true" />
   </a>
 </p>
 
-## &#x1F680; GitHub Stats
-<p align="center">
-  <a align="center" href="https://github.com/boidushya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=boidushya&show_icons=true&line_height=27&count_private=true&theme=react&hide_border=true" alt="Boidushya's GitHub Stats" />
-  </a>
- </p>
 
-## &#128202; Contribution Stats
+## 📱 Redes Sociales
 <p align="center">
-  <img alt="Boidushya's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=boidushya&theme=react&hide_border=true"/>
-</p>
-
-## 📱 Socials
-<p align="center">
-	<a href="https://instagram.com/boidushya">
+	<a href="https://www.instagram.com/xdayronpumba/">
 		<img src="https://img.shields.io/badge/Instagram-informational?style=social&logo=instagram"/>
 	</a>
-	<a href="https://www.linkedin.com/in/boidushya/">
-		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
-	</a>
-	<a href="https://www.reddit.com/u/boidushya/">
+	<a href="https://www.reddit.com/user/XDAYRONJEJE">
 		<img src="https://img.shields.io/badge/Reddit-informational?style=social&logo=reddit"/>
 	</a>
-	<a href="https://www.github.com/boidushya/">
+	<a href="https://github.com/XdayronDev">
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
 </p>
