@@ -1,6 +1,4 @@
-<a href="https://boidushya.github.io/">
-  <img src="./header.png" alt="Header"/>
-</a>
+ ![logo](https://i.imgur.com/xmOtssx.png)
 
 # Hola Chicos! <img src="./wave.gif" width="30px">
 
